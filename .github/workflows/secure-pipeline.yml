@@ -1,5 +1,4 @@
 name: Secure CI/CD Pipeline
-
 on:
   push:
     branches: [ "main" ]
